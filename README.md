@@ -1,0 +1,3 @@
+For my graduation project, I put in a great deal of effort. Although the final product was not as advanced as I initially envisioned, I worked extremely hard on it. The project was originally intended to be a ROS-based system, but due to time constraints and unforeseen challenges, I had to pivot to an alternative solution. The final system involved a robot scanning a 2D map of nine squares through its camera preview and determining actions based on object placement. For example, if an object was detected in the fourth square, the robot would use preprogrammed kinematics for that specific position to pick up the object and move it out of the area.
+i used a c ardudino program + a Python script to atchive this.
+Thid is not the final product i will to expand on this more.
